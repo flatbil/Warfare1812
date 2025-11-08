@@ -34,4 +34,4 @@ License
 This repository is provisionally licensed under the MIT License. See `LICENSE` for details.
 
 Contacts
-- Owner: Your Name (you@domain.com)
+- Owner: Your Name (walmond@gmail.com)
