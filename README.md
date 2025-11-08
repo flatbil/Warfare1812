@@ -34,4 +34,4 @@ License
 This repository is provisionally licensed under the MIT License. See `LICENSE` for details.
 
 Contacts
-- Owner: Your Name (walmond@gmail.com)
+- Owner: William Winston Almond (walmond@gmail.com)
